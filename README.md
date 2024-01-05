@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aluapbraga01
 - 👀 I’m interested in Cyber, Python, Assembly and others
-- 🌱 I’m currently learning ... Cybersecurity
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

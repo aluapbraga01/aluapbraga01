@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @aluapbraga01
-- 👀 I’m interested in Cyber, Python, Assembly and others
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber, Python, Assembly, reverse engineering, 
+crackmes.
+- 🌱 I’m currently learning Assembly and Python
+- 💞️ I’m looking to collaborate on people who seek curiosity in these related topics and other things as well.
 - 📫 How to reach me ...
 
 <!---
